@@ -3,8 +3,6 @@ This Repo contains knowledge related to **S**ite **R**eliability **E**ngineering
 
 ##### https://learning.oreilly.com/library/view/becoming-sre/9781492090540/
 
-SRE should be a conversation and not a doctrine.  
-
 SRE is an engineering discipline devoted to helping organisations  
 sustainably(sustainable operations practice) achieve  
 the appropriate level(SLIs/SLOs) of reliability  
@@ -21,6 +19,8 @@ time(deal with outage instead of planned work).
 SRE is to reliability, 
 as DevOps is to delivery(Delivering value to customers, delivering software, etc.).
 **It is all about the direction of attention.**
+
+SRE should be a conversation and not a doctrine.
 
 ```mermaid
 ---
