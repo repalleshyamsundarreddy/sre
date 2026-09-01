@@ -5,7 +5,7 @@ This Repo contains knowledge related to **S**ite **R**eliability **E**ngineering
 
 SRE is an engineering discipline devoted to helping organisations  
 sustainably(sustainable operations practice) achieve  
-the appropriate level(SLIs/SLOs) of reliability  
+the appropriate level(SLIs/Metrics and SLOs/Metric Thresholds) of reliability  
 of their applications, products, services and systems  
 while iterating at the speed demanded by the market place.
 
