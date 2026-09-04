@@ -50,6 +50,37 @@ graph LR
     class PM,Dev,QA,Push,Ops default;
 ```
 
+SRE Mindset:
+
+SRE Mindset starts with curiosity.
+
+How does a system work? How does it fail?
+
+For SRE, the primary question is not, “How is it supposed to work?” but rather, “How does it really work? How does it really work in production?”
+
+What is the SRE mindset? 
+What are the qualities that define it, how does it differ from other mindsets, 
+how do we begin to think in this direction, and so on?
+
+when the Author says, “How does a system work?” I am also referring to:
+
+The entire application, with its development and deployment processes
+
+The entire service, which includes that application code plus the ancillary automated or sidecar processes (e.g., log collectors or cleanup scripts)
+
+The service and the infrastructure it runs on
+
+The physical overlay for the infrastructure (running in how many areas around the globe?) and the connections between these pieces
+
+The sociotechnical context in which the service and the infrastructure run
+
+The organizational context that this sociotechnical context resides in
+
+All of these things and more are taken into account when I say that the SRE mindset has a systems focus.
+
+The SRE mindset is concerned with the big picture and the little picture. When we are trying to understand how a system works, we are frequently zooming in to the micro level and out for the wide macro shot. We will follow the problem at whatever level of detail is necessary.
+
+
 Related books:
 
 https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/
